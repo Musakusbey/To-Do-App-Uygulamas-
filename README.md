@@ -1,2 +1,2 @@
-# To-Do-App-Uygulamas-
-To Do App Uygulaması
+JAVA SCRİPT İLE TO DO LİST UYGULAMASI 
+JAVA SCRİPT İLE TO DO LİST UYGULAMASI 
